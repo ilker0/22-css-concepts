@@ -416,6 +416,7 @@ Feel free to translate this repository into your language. All translations will
 - 📜 [Understanding CSS Grid: Creating A Grid Container - Rachel Andrew](https://www.smashingmagazine.com/2020/01/understanding-css-grid-container/)
 - 📜 [How to Create a Perfect CSS Grid on Your Website [Sample Layouts] - Clint Fontanella](https://blog.hubspot.com/website/css-grid)
 - 📜 [Learn CSS Grid by Building 5 Layouts in 17 minutes - Thu Nghiem](https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/)
+- 📜 [grid-area - Mojtaba Seyedi](https://css-tricks.com/almanac/properties/g/grid-area/)
 
   
 
