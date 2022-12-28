@@ -661,10 +661,7 @@ Feel free to translate this repository into your language. All translations will
 - 📜 [CSS POSITION PROPERTY - Doganaker](https://medium.com/baakademi/css-position-property-69d0596baf3c)
 - 📜 [The CSS Position Property: Everything You Need to Know - Jamie Juviler](https://blog.hubspot.com/website/css-position)
 - 📜 [Ultimate Guide to CSS Positioning - Adarsh gupta](https://blog.bitsrc.io/ultimate-css-position-guide-f84969cc72ca)
-
-  
-
-  
+- 📜 [ Learn CSS Positioning - Ahmad Shadeed](https://ishadeed.com/article/learn-css-positioning/)
 
 ### Videos
 - 🎥 [Learn CSS Position In 9 Minutes - Web Dev Simplified](https://www.youtube.com/watch?v=jx5jmI0UlXU)
