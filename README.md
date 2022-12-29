@@ -428,6 +428,7 @@ Feel free to translate this repository into your language. All translations will
 - 🎥 [Learn CSS Grid the easy way - Kevin Powell](https://www.youtube.com/watch?v=rg7Fvvl3taU)
 - 🎥 [CSS Grid Crash Course 2022 - Tutorial for Complete Beginners - Codevolution](https://www.youtube.com/watch?v=p4Ith5qRM1g)
 - 🎥 [CSS Grid in 45 Minutes! - Wes Bos](https://www.youtube.com/watch?v=DCZdCKjnBCs)
+- 🎥 [Why I use grid over flexbox for this common layout - Kevin Powell](https://www.youtube.com/watch?v=ctHE8EXEoj8)
 
   
 **[⬆ Back to Top](#table-of-contents)**
